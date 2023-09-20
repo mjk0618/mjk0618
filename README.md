@@ -1,6 +1,6 @@
-### Hello 👋 I'm Minjae Kang.
+## Hello 👋 I'm Minjae Kang.
 ---
-⚡ I'm interested in ...
+### ⚡ I'm interested in ...
 - Deep Learning
 - Nutural Language Processing
 - Neural Machine Translation
